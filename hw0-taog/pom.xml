@@ -14,13 +14,11 @@
   <distributionManagement>
     <repository>
       <id>deployment</id>
-      <url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/
-          course-releases</url>
+      <url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-releases</url>
     </repository>
     <snapshotRepository>
       <id>snapshots</id>
-      <url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/
-          course-snapshots</url>
+      <url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-snapshots</url>
     </snapshotRepository>
   </distributionManagement>
   <build><plugins>
@@ -39,7 +37,7 @@
         <id>default</id>
         <goals><goal>perform</goal></goals>
         <configuration>
-          <pomFileName>hw0-ANDREW_ID/pom.xml</pomFileName>
+          <pomFileName>hw0-taog/pom.xml</pomFileName>
         </configuration>
       </execution></executions>
     </plugin>
