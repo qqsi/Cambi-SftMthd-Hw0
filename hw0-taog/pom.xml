@@ -6,6 +6,7 @@
   <scm>
   	<connection>scm:git:git://github.com/qqsi/Cambi-SftMthd-Hw0.git</connection>
   	<developerConnection>scm:git:git://github.com/qqsi/Cambi-SftMthd-Hw0.git</developerConnection>
+  	<url>https://github.com/qqsi/Cambi-SftMthd-Hw0</url>
   </scm>
   <repositories><repository>
     <id>deployment</id>
